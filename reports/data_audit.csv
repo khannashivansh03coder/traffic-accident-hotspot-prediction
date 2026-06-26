@@ -1,0 +1,25 @@
+Column,Data Type,Missing,Unique Values
+accident_id,int64,0,20000
+city,object,0,8
+state,object,0,7
+latitude,float64,0,19907
+longitude,float64,0,19927
+date,object,0,1201
+time,object,0,24
+hour,int64,0,24
+day_of_week,object,0,7
+is_weekend,int64,0,2
+road_type,object,0,3
+lanes,int64,0,6
+traffic_signal,int64,0,2
+weather,object,0,3
+visibility,object,0,3
+temperature,int64,0,26
+traffic_density,object,0,3
+cause,object,0,5
+accident_severity,object,0,3
+vehicles_involved,int64,0,5
+casualties,int64,0,6
+is_peak_hour,int64,0,2
+festival,object,19885,4
+risk_score,float64,0,18
